@@ -1,1 +1,3 @@
-# lab_aedII
+integrantes do grupo
+Luis Gustavo 
+Saulo
